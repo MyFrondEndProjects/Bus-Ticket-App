@@ -43,37 +43,244 @@ body
     height:90%;
     right:2%;
     top:4%;
-    background-color:#008080;
+    background-color:White;
     border-radius:1em;
   
     
 }
 .Peron1
 {
-
-    margin-top:39px;
+  position:absolute;
+    margin-top:44px;
     font-size:18px;
-    border:3px solid  #3CB371;
-    padding:0.1em;
-    margin-left:1%;
-    background-color:#3CB371;
-    
+    border:3px solid  darkgray;
+    background-color:#198ad7;
+    width:100%;
+    height:10%;
+    text-align:center;
+    font-family:monospace;
+}
+.Peron2
+{
+  position:absolute;
+    margin-top:150px;
+    font-size:18px;
+    border:3px solid  darkgray;
+    background-color:#198ad7;
+    width:100%;
+    height:10%;
+    text-align:center;
+    font-family:monospace;
+}
+.Peron3
+{
+  position:absolute;
+    margin-top:250px;
+    font-size:18px;
+    border:3px solid  darkgray;
+    background-color:#198ad7;
+    width:100%;
+    height:10%;
+    text-align:center;
+    font-family:monospace;
+}
+.Peron4
+{
+  position:absolute;
+    margin-top:350px;
+    font-size:18px;
+    border:3px solid  darkgray;
+    background-color:#198ad7;
+    width:100%;
+    height:10%;
+    text-align:center;
+    font-family:monospace;
+}
+.Peron5
+{
+  position:absolute;
+    margin-top:450px;
+    font-size:18px;
+    border:3px solid  darkgray;
+    background-color:#198ad7;
+    width:100%;
+    height:10%;
+    text-align:center;
+    font-family:monospace;
+}
+.Peron6
+{
+  position:absolute;
+    margin-top:550px;
+    font-size:18px;
+    border:3px solid  darkgray;
+    background-color:#198ad7;
+    width:100%;
+    height:10%;
+    text-align:center;
+    font-family:monospace;
 }
 .Bus-title
 {
     position:absolute;
-    Color:green;
-    left:3.3em;
-    top:0.5;
+    Color:#198ad7;
+    left:4em;
+    top:0.9;
+    font-family:monospace;
 }
-.sefersec
+.Peron1btn
 {
-   
-    font-size:1.5em;
-    margin-top:70px;
-    margin-left:8em;
+    margin-top:0.5em;
+    width:6em;
+    height:2em;
+    margin-left:0.5em;
+    font-family:monospace;
+    background-color:aquamarine;
+    border-radius:0.5em;
+    
 }
-.seferler
+.Peron2btn
 {
-    display:inline-block;
+    margin-top:0.5em;
+    width:6em;
+    height:2em;
+    margin-left:0.5em;
+    font-family:monospace;
+    background-color:aquamarine;
+    border-radius:0.5em;
+}
+.Peron3btn
+{
+    margin-top:0.5em;
+    width:6em;
+    height:2em;
+    margin-left:0.5em;
+    font-family:monospace;
+    background-color:aquamarine;
+    border-radius:0.5em;
+}
+.Peron4btn
+{
+    margin-top:0.5em;
+    width:6em;
+    height:2em;
+    margin-left:0.5em;
+    font-family:monospace;
+    background-color:aquamarine;
+    border-radius:0.5em;
+}
+.Peron5btn
+{
+    margin-top:0.5em;
+    width:6em;
+    height:2em;
+    margin-left:0.5em;
+    font-family:monospace;
+    background-color:aquamarine;
+    border-radius:0.5em;
+}
+.Peron6btn
+{
+    margin-top:0.5em;
+    width:6em;
+    height:2em;
+    margin-left:0.5em;
+    font-family:monospace;
+    background-color:aquamarine;
+    border-radius:0.5em;
+}
+.kayitform
+{
+    position:absolute;
+    top:50%;
+    width:49.1%;
+    height:40%;
+    background-color:White;
+    border-radius:0.5em;
+    left:2%;
+background-color:#E6E6FA;
+}
+.Adsoyad
+{
+    position:absolute;
+    top:12%;
+    left:10%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+    
+}
+.Biletucreti
+{
+    position:absolute;
+    top:12%;
+    left:40%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+}
+.Yolculuksaati
+{
+    position:absolute;
+    top:12%;
+    left:69.9%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+}
+.Nereden
+{
+    position:absolute;
+    top:40%;
+    left:10%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+}
+.Nereye
+{
+    position:absolute;
+    top:40%;
+    left:40%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+}
+.Otobusplakasi
+{
+    position:absolute;
+    top:40%;
+    left:69.9%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+}
+.Tarih
+{
+    position:absolute;
+    top:68%;
+    left:10%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+}
+.Telefonnumarasi
+{
+    position:absolute;
+    top:68%;
+    left:40%;
+    height:2em;
+    text-align:center;
+    border-radius:0.5em;
+}
+.Biletionayla
+{
+    position:absolute;
+    top:68%;
+    left:69.9%;
+    height:2em;
+    text-align:center;
+    width:12em;
+    background-color:#198ad7;
+    border-radius:0.5em;
 }

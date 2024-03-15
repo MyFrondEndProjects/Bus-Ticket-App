@@ -1,0 +1,79 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body
+{
+    background-color:#198ad7;
+}
+.container
+{
+    position:absolute;
+    width:98%;
+    height:98%;
+    background-color:black;
+    top:1%;
+    left:1%;
+    border-radius:1em;
+
+}
+.ticketpanel
+{
+    position:absolute;
+    top:1em;
+    left:1em;
+    width:50%;
+    height:40%;
+    background-color:red;
+    border-radius:1em;
+}
+.ticket
+{
+    width:100%;
+    height:100%;
+    border-radius:1em;
+
+}
+.Bus-info
+{
+    position:absolute;
+    width:20%;
+    height:90%;
+    right:2%;
+    top:4%;
+    background-color:#008080;
+    border-radius:1em;
+  
+    
+}
+.Peron1
+{
+
+    margin-top:39px;
+    font-size:18px;
+    border:3px solid  #3CB371;
+    padding:0.1em;
+    margin-left:1%;
+    background-color:#3CB371;
+    
+}
+.Bus-title
+{
+    position:absolute;
+    Color:green;
+    left:3.3em;
+    top:0.5;
+}
+.sefersec
+{
+   
+    font-size:1.5em;
+    margin-top:70px;
+    margin-left:8em;
+}
+.seferler
+{
+    display:inline-block;
+}

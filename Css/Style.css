@@ -284,3 +284,75 @@ background-color:#E6E6FA;
     background-color:#198ad7;
     border-radius:0.5em;
 }
+.Adsoyasyaz
+{
+    position:absolute;
+    color:#4169E1;
+    right:11%;
+    top:25%;
+    font-weight:bolder;
+    font-size:1.1em;
+}
+.Telefonnumarasiyaz
+{
+    position:absolute;
+    color:#4169E1;
+    right:13.5%;
+    top:50%;
+    font-weight:bolder;
+    font-size:1.1em;
+}
+.Biletucretiyaz
+{
+    position:absolute;
+    color:#4169E1;
+    left:22.9%;
+    top:25%;
+    font-weight:bolder;
+    font-size:1.1em;
+}
+.Tarihyaz
+{
+    position:absolute;
+    color:#4169E1;
+    left:44.9%;
+    top:25%;
+    font-weight:bolder;
+    font-size:1.1em;
+}
+.Nereyeyaz
+{
+    position:absolute;
+    color:#4169E1;
+    left:23%;
+    top:51%;
+    font-weight:bolder;
+    font-size:1.1em;
+}
+.Neredenyaz
+{
+    position:absolute;
+    color:#4169E1;
+    left:44.9%;
+    top:51%;
+    font-weight:bolder;
+    font-size:1.1em;
+}
+.Otobüsplakasıyaz
+{
+    position:absolute;
+    color:#4169E1;
+    left:14%;
+    top:76%;
+    font-weight:bolder;
+    font-size:1.1em;
+}
+.Yolculuksaatiyaz
+{
+    position:absolute;
+    color:#4169E1;
+    right:46%;
+    top:76%;
+    font-weight:bolder;
+    font-size:1.1em;
+}

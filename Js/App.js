@@ -191,7 +191,15 @@ const personelgiris= () =>
         Logincontainer.remove();
         Maincontainer.appendChild(kayitform);
         container.appendChild(Maincontainer);
-
+        adsoyadekle.value="";
+        Tarihekle.value="";
+        telefonnumarasiekle.value="";
+        Neredenekle.value="";
+        Otobusplakasiekle.value="";
+        Biletucretiekle.value="";
+        Nereyeekle.value="";
+        Yolculuksaatiekle.value="";
+        
         const Peron1secildi=() => 
         {
             for(let i=0; i<seferler.length; i++)
